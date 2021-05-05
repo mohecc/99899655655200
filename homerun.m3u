@@ -49,5 +49,5 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:0,NRJ12
 https://mmsiptv.com/live/nrj12/playlist.m3u8
-#EXTINF:0,Mangas
-https://mmsiptv.com/live/ortm/playlist.m3u8
+#EXTINF:0,Custom
+http://cobraa.in:8000/265262552526/CkSas5bDKK/4
